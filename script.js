@@ -23,7 +23,7 @@ const renderUser = doc => {
       <td>${doc.data().email}</td>
       <td>
         <button class="btn btn-edit">Edit</button>
-        <button class="btn btn-delete">Delete</button>
+     
       </td>
     </tr>
   `;
